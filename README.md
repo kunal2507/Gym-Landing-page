@@ -22,6 +22,7 @@ Membership Plans
 ![Screenshot 2023-08-12 184007](https://github.com/kunal2507/Topperworld-Task1-Gym-landing-page/assets/110448204/96d62fea-faed-421a-a7c0-04310d2e1e56)
 
 Fully Responsive 
+
 ![Screenshot 2023-08-12 184112](https://github.com/kunal2507/Topperworld-Task1-Gym-landing-page/assets/110448204/43f0d8ed-00fb-4ea4-be6d-23adf7921c1c)
 
 
